@@ -2,7 +2,7 @@
 category: "resume"
 tag: "experience"
 organization: "JStokes Agency"
-logo: ""
+logo: "images/experience-jstokes.png"
 location: "Walnut Creek, CA"
 job_title: "Senior Web Developer"
 dateFrom: "SEP 2014"

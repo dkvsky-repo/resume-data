@@ -2,7 +2,7 @@
 category: "resume"
 tag: "experience"
 organization: "Workday, Inc"
-logo: ""
+logo: "images/experience-workday.jpeg"
 location: "Pleasanton, CA"
 job_title: "Software App Engineer"
 dateFrom: "APR 2016"

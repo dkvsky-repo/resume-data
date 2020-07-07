@@ -2,7 +2,7 @@
 category: "resume"
 tag: "experience"
 organization: "QuinStreet, Inc"
-logo: ""
+logo: "images/experience-quinstreet.png"
 location: "Foster City, CA"
 job_title: "PHP Developer"
 dateFrom: "MAY 2013"
