@@ -1,6 +1,7 @@
 ---
 category: "site"
 tag: "about"
+image: "images/profile.jpg"
 heading_1: "I ❤️ &nbsp;HTML, CSS + JS"
 heading_2: "David Kontorovsky"
 heading_3: "Front-End Engineer"

@@ -1,12 +1,12 @@
 ---
-category: ‘resume’
-tag: ‘experience’
-organization: ‘QuinStreet, Inc’
-logo: ''
-location: ‘Foster City, CA’
-job_title: ‘PHP Developer’
-dateFrom: ‘MAY 2013’
-dateTo: ‘JUN 2014’
+category: "resume"
+tag: "experience"
+organization: "QuinStreet, Inc"
+logo: ""
+location: "Foster City, CA"
+job_title: "PHP Developer"
+dateFrom: "MAY 2013"
+dateTo: "JUN 2014"
 order: 201305
 ---
 
