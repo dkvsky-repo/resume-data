@@ -3,16 +3,14 @@ category: ["resume", "site"]
 tag: "projects"
 title: "KPROX"
 technologies:
-  [
-    "JS/ES6+",
-    "React",
-    "NextJS",
-    "Tailwind CSS",
-    "Jest",
-    "Prismic CMS",
-    "GraphQL",
-    "Apollo",
-  ]
+  - "JS/ES6+"
+  - "React"
+  - "NextJS"
+  - "Tailwind CSS"
+  - "Jest"
+  - "Prismic CMS"
+  - "GraphQL"
+  - "Apollo"
 url: "https://kprox.com"
 image: ""
 ---
