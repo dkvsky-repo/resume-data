@@ -3,7 +3,7 @@ name: "Sonia Minden"
 organization: "JStokes"
 date: "Jul 28, 2017"
 origin: "Hired.com"
-work_relationship: "teammate"
+work_relationship: "Teammate"
 order: 201707
 ---
 

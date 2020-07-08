@@ -3,7 +3,7 @@ name: "Anthony Leung"
 organization: "QuinStreet"
 date: "Jul 31, 2014"
 origin: "LinkedIn"
-work_relationship: "manager"
+work_relationship: "Manager"
 order: 201407
 ---
 
