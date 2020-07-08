@@ -1,43 +1,25 @@
 ---
 category: ["resume", "site"]
 tag: "skills"
-languages:
-  - Javascript/ES6+
-  - TypeScript
-  - NodeJS
-  - CSS3
-  - Saas
-  - HTML5
-  - PHP
-  - JSON
-  - YAML
-
-frameworks:
-  - React
-  - NextJS
-  - Tailwind CSS
-  - Material UI
-  - Bootstrap
-  - Foundation
-  - Angular
-  - AngularJS
-  - CodeIgniter
-  - Symfony
-
-cms:
-  - GraphCMS
-  - Prismic
-  - Strapi
-  - Ghost
-  - WordPress
-  - Drupal
-
-etc:
-  - Apollo
-  - GraphQL
-  - Git
-  - MySQL
-  - MongoDB
-  - Twig
-  - Handlebars
+featured:
+  - name: "Javascript/ES6+"
+    image: ""
+  - name: "React"
+    image: ""
+  - name: "NextJS"
+    image: ""
+  - name: "Apollo"
+    image: ""
+  - name: "GraphQL"
+    image: ""
+  - name: "Tailwind CSS"
+    image: ""
+  - name: "Saas"
+    image: ""
+  - name: "Strapi"
+    image: ""
+  - name: "Gatsby"
+    image: ""
+  - name: "NodeJS"
+    image: ""
 ---
