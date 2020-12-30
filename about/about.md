@@ -9,8 +9,16 @@ support_headline: 'I develop user interfaces, re-usable components, decoupled ap
 date: '2020-07-01'
 ---
 
-Hi! I'm David Kontorovsky, feel free to call me DK. I'm a Front-End Engineer based in Orange County, California. I'm all about user interfaces, components, decoupled applications and design systems. Ocassionally, I also tinker with backend code and it's a lot of fun.
+## The short version
 
-I have 7+ years of experience, and I have worked with a really wide range of technologies, frontend and backend, that go from good 'ol LAMP/LEMP stack (Linux, Apache/nginx, MySQL, PHP), WordPress and Drupal sites; to more modern Javascript/ES6+, TypeScript, React, NextJS, Gatsby, GraphQL, Apollo, headless CMS systems, Node, Express, and so much more.
+Hi! I'm David Kontorovsky, a.k.a "DK". I'm a Front-End Engineer based in Orange County, California. I love working on the frontend of web applications, creating user interfaces, re-usable components and, for the most part, translating beautiful designs and concepts into frontend code. Ocassionally, I also tinker with backend code and I find it to be a lot of fun.
 
-As much as I love coding, I also love photography, traveling to beach destinations with my family, and gadgets.
+## The longer version
+
+I have 8+ years of experience. I have worked at startups, agencies and larger organizations following scrum methodology. This experience has allowed me to work with a wide range of technologies, frontend and backend, from good 'ol LAMP/LEMP stack, old school WordPress and Drupal sites, to more modern JAMStack apps/sites using Javascript/ES6+, TypeScript, React, NextJS, APIs, headless CMS systems, Node, Express, and more.
+
+My educational background starts with Systems Engineering, steps into a legal career, and circles back to internet programming. Whether for work or personal, I found my passion in coding.
+
+I also love sharing. Giving back is important. In 2019 I started my journey into content creation. My YouTube channel and podcast, "Se Habla Código", was born to facilitate sharing knowledge and ideas with fellow developers. I decided to do it in Spanish because Spanish is my native languange (Venezuela 🇻🇪 ), I wanted to engage with Spanish-speaking colleages in other countries, and I also wanted to keep my Spanish technical terms in check 😉
+
+As much as I love coding, I also love photography, gadgets, and traveling with my family.
